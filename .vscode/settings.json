@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "urlapi.h": "c",
+        "quickmail.h": "c",
+        "graphics.h": "c",
+        "recommend_seekers.h": "c",
+        "ctype.h": "c",
+        "stdlib.h": "c",
+        "sha256.h": "c",
+        "string.h": "c",
+        "seeker.h": "c"
+    },
+    "dotnet.defaultSolution": "cs_tutorial\\cs_tutorial.sln"
+}
